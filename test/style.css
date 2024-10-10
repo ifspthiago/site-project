@@ -31,7 +31,7 @@ body {
     border-top: 2px solid red;
     border-left: 2px solid black;
     border-right: 2px solid black;
-    border-bottom: 2px solid grey;
+    border-bottom: 2px solid rgb(55, 9, 9);
     outline: none;
     border-radius: 20px;
     width: 0%;
